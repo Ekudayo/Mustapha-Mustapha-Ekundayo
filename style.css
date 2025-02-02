@@ -238,9 +238,18 @@ ul.skill-tag > li > {
   color: rgb(31, 18, 31);
   font-size: 2rem;
 }
-@media (max-width: 1015.33px) {
-}
+/* @media (max-width: 1015.33px) {
+} */
 @media (max-width: 860px) {
+  /* header start*/
+  .fa-bars {
+    display: block;
+  }
+ .nav-lists {
+    display: none;
+  }
+  /* header end*/
+
   /* hero section */
   .hero-container {
     flex-direction: column;
