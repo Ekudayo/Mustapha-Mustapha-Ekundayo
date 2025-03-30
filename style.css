@@ -82,12 +82,8 @@ ul.nav-lists > li > a {
 }
 .hero-title {
   color: rgb(31, 18, 31);
-  /* animation: typing 10s steps(26) infinite, blink 1s step-end infinite; */
 }
-/* @keyframes typing{
-  from {width: 0; }
-  to {width: 26ch;}
-} */
+
 .hero-desc {
   line-height: 1.6;
   font-size: 20px;
